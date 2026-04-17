@@ -1,0 +1,53 @@
+.pqb-warning {
+	color: #d63638;
+	font-weight: 600;
+	margin-top: 8px;
+}
+
+#pqb_product_data .pqb-warning {
+	padding-left: 162px !important;
+}
+
+.pqb-sold-notice {
+	color: #d63638;
+	font-weight: 600;
+	border: 1px solid #d63638;
+	background: #fff0f0;
+	border-radius: 3px;
+	padding: 10px 12px;
+	margin: 12px 12px 0;
+}
+
+.pqb-preview-wrap {
+	margin-top: 18px !important;
+}
+
+.pqb-preview-label {
+	font-weight: 600;
+	vertical-align: middle;
+}
+
+.pqb-btn-preview {
+	display: inline-block;
+	background: #000;
+	color: #fff;
+	padding: 10px 20px;
+	border-radius: 3px;
+	font-size: 16px;
+	font-weight: 600;
+	vertical-align: middle;
+	margin-left: 4px;
+}
+
+.pqb-prefix-suffix-input::placeholder {
+	color: #bbb;
+}
+
+#pqb_product_data #pqb_button_prefix {
+	margin-right: 15px;
+}
+
+#pqb_product_data .pqb-disabled-group {
+	opacity: 0.4;
+	pointer-events: none;
+}
