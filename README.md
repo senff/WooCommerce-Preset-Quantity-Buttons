@@ -1,15 +1,15 @@
 # Preset Quantity Buttons for WooCommerce
 
-**Contributors:** senff
-**Donate link:** http://donate.senff.com
-**Tags:** preset, quantity, buttons, cart, bundles
-**Plugin URI:** https://wordpress.org/plugins/preset-quantity-buttons-for-woocommerce
-**Requires at least:** 6.0
-**Tested up to:** 6.9
-**Requires PHP:** 7.4
-**Stable tag:** 1.0
-**License:** GPLv3
-**License URI:** https://www.gnu.org/licenses/gpl-3.0.html
+* Contributors: senff
+* Donate link: http://donate.senff.com
+* Tags: preset, quantity, buttons, cart, bundles
+* Plugin URI: https://wordpress.org/plugins/preset-quantity-buttons-for-woocommerce
+* Requires at least: 6.0
+* Tested up to: 6.9
+* Requires PHP: 7.4
+* Stable tag: 1.0
+* License: GPLv3
+* License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Adds preset quantity buttons to WooCommerce product pages, letting customers instantly add a predefined quantity of a product to their cart.
 
